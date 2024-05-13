@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">app_name</string>
+    <string name="listIsEmpty">listIsEmpty</string>
+    <string name="isFavourite">isFavourite</string>
+    <string name="newTask">newTask</string>
+    <string name="taskTitle">taskTitle</string>
+    <string name="description">description</string>
+    <string name="addToFavourite">addToFavourite</string>
+    <string name="about">about</string>
+    <string name="tasks">tasks</string>
+    <string name="editTask">editTask</string>
+    <string name="enterName">enterName</string>
+    <string name="enterTitle">enterTitle</string>
+    <string name="editGroup">editGroup</string>
+    <string name="name">name</string>
+    <string name="createItemQuestion">createItemQuestion</string>
+    <string name="task">task</string>
+    <string name="group">group</string>
+    <string name="set">set</string>
+    <string name="newGroup">newGroup</string>
+</resources>
